@@ -12,3 +12,4 @@ In ExpenseTotal.js I'm was be adding useContext and AppContext. Taking the expen
 In ExpenseList.js I'm was be using the map function to display the Expenseitem component.
 In Expenseitem.js I'm was be importing dispatch from Context, which allows you to dispatch a delete action, creating a function that gets called when the delete icon is clicked.
 In AllocationForm.js I'm was creating an expense object, containing the name and the cost. This is what will get dispatched as the payload, and what I'll use to update the state.
+![screen-budget](https://github.com/Yeranosyan/ejtos-react_budget_app/assets/120154377/c7d83311-9d56-49d4-8ddd-91011fb212ae)
